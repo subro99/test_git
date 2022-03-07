@@ -4,3 +4,4 @@ print("test git fetch")
 #zmiana 3
 
 #working issue1
+#working issue1.2
