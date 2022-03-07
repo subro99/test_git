@@ -8,3 +8,4 @@ print("test git fetch")
 
 #working on master without commit
 #work on issue1 with commit
+#working issue1 only stage
